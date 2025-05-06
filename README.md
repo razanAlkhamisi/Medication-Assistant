@@ -26,7 +26,7 @@ The Smart Medicine Assistant aims to:
 
 ## 🏗️ System Architecture
 
-![System Architecture](assets/System_Architecture.png)
+![System Architecture](System_Architecture.png)
 
 **Components:**
 - **Streamlit UI**: Web interface for user interaction.
