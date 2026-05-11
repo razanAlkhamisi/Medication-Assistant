@@ -11,7 +11,10 @@ Below is a brief demonstration of the Smart Medicine Assistant:
 - 📄 Chatting with medical PDF reports.
 
 
-https://github.com/user-attachments/assets/edc245e2-68b1-4760-8955-6b233c8970aa
+
+
+https://github.com/user-attachments/assets/249c63af-a5c6-4f9c-9ff8-050739bc9833
+
 
 
 
