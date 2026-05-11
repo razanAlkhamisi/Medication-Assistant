@@ -63,7 +63,8 @@ The Smart Medicine Assistant aims to:
 ### PDF Document QA
 - PDFs are chunked and embedded using OpenAI’s Embeddings.
 - FAISS is used for vector storage and retrieval.
-- LangChain's RetrievalQA answers document-specific questions.
+- A Retrieval-Augmented Generation (RAG) approach is implemented to enhance responses by retrieving relevant information from uploaded medical documents before generating answers.
+- LangChain’s RetrievalQA pipeline is used to answer document-specific questions accurately.
 
 ### Voice Input
 - Speech is recorded and transcribed using Whisper.
