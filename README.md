@@ -1,5 +1,19 @@
 # Smart Medicine Assistant 💊
-An intelligent, multi-functional healthcare platform designed to simplify medication management and provide accessible health information, especially for seniors, caregivers,visually impaired, and individuals with chronic conditions.
+An intelligent, multi-functional healthcare platform designed to simplify medication management for seniors and the visually impaired. It acts as a digital companion that understands voice and images to provide reliable health information.
+
+---
+
+### 📺 Project Demo (Project in Action)
+
+Below is a brief demonstration of the Smart Medicine Assistant:
+- 🎤 Handling voice queries for drug information.
+- 📸 Performing OCR on medicine labels.
+- 📄 Chatting with medical PDF reports.
+
+
+https://github.com/user-attachments/assets/edc245e2-68b1-4760-8955-6b233c8970aa
+
+
 
 ---
 
